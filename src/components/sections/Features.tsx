@@ -21,7 +21,7 @@ const FeaturedExperts = () => {
       industry: 'Business Strategy',
       rating: 4.9,
       reviews: 128,
-      rate: '$150/hr',
+      rate: '₦2,000/hr',
       availability: 'Next available: Today',
       expertise: ['Strategic Planning', 'Growth Strategy', 'Digital Transformation'],
       image: 'https://randomuser.me/api/portraits/women/21.jpg'
@@ -31,7 +31,7 @@ const FeaturedExperts = () => {
       industry: 'Financial Advisory',
       rating: 4.8,
       reviews: 93,
-      rate: '$175/hr',
+      rate: '₦5,000/hr',
       availability: 'Next available: Tomorrow',
       expertise: ['Investment Banking', 'M&A', 'Venture Capital'],
       image: 'https://randomuser.me/api/portraits/men/42.jpg'
@@ -41,7 +41,7 @@ const FeaturedExperts = () => {
       industry: 'Healthcare',
       rating: 5.0,
       reviews: 156,
-      rate: '$200/hr',
+      rate: '₦5,000/hr',
       availability: 'Next available: Today',
       expertise: ['Healthcare Policy', 'Medical Technology', 'Clinical Operations'],
       image: 'https://randomuser.me/api/portraits/men/64.jpg'
@@ -51,7 +51,7 @@ const FeaturedExperts = () => {
       industry: 'Technology',
       rating: 4.9,
       reviews: 142,
-      rate: '$165/hr',
+      rate: '₦6,000/hr',
       availability: 'Next available: Today',
       expertise: ['Cloud Architecture', 'AI/ML', 'Digital Transformation'],
       image: 'https://randomuser.me/api/portraits/men/74.jpg'
@@ -61,7 +61,7 @@ const FeaturedExperts = () => {
       industry: 'Helth care',
       rating: 4.9,
       reviews: 142,
-      rate: '$165/hr',
+      rate: '₦1,500/hr',
       availability: 'Next available: Today',
       expertise: ['Surgery', 'Optician', 'Medical Technology'],
       image: 'https://randomuser.me/api/portraits/men/78.jpg'
